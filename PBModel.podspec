@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = "PBModel"
-  s.version      = "0.0.2"
+  s.version      = "0.0.3"
   s.summary      = "PB Model classes"
   s.homepage     = "https://github.com/aruzamen/PBModel"
 
