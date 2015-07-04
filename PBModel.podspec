@@ -4,7 +4,7 @@ Pod::Spec.new do |s|
   s.summary      = "PB Model classes"
   s.homepage     = "https://github.com/aruzamen/PBModel"
 
-  s.license      = "MIT (example)"
+  s.license      = { :type => 'MIT', :file => 'LICENSE' }
   s.author       = { "Marcelo Aruzamen" => "aruzamen@gmail.com" }
 
   s.source       = {
